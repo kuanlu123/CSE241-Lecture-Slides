@@ -1,2 +1,2 @@
-# CSE241lecture
-notes
+# CSE241-Lecture
+Lecture Notes
